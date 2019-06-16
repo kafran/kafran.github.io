@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en"
-title                    : "Kolmar Kafran"
+title                    : "K.K."
 title_separator          : "-"
 name                     : "Kolmar Kafran"
 description              : "Decision Modeling and Risk Management in Public Administration"
@@ -8,7 +8,7 @@ url                      : "https://kafran.net" # the base hostname & protocol f
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kafran/kafran.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -24,9 +24,9 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message'] # ['name', 'email', 'url', 'message']
   branch                 : "master" # "master"
-  commitMessage          : "New comment." # "New comment."
-  filename               : comment-{@timestamp} # comment-{@timestamp}
-  format                 : "yml" # "yml"
+  commitMessage          : "New comment by {fields.name}." # "New comment."
+  filename               : "comment-{@timestamp}" # comment-{@timestamp}
+  format                 : "json" # "json", "yaml" or "frontmatter"
   moderation             : true # true
   path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message'] # ['name', 'email', 'message']
@@ -38,8 +38,9 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  enable: true
+  siteKey                : "6LcoEKkUAAAAACwEYLdIXtnJN3DwsjZXOIQYPSMz"
+  secret                 : "ZKoxOczCW2ODkhWNHc7VCsI+GQSoP1PHQm8SRD8/6Meyz/Mn2zpRz/ThZyW/kJFqGvf9qBgDkfVKVoUpcIc4+gJbkZUa+/IIgMxE65UmdVLV7FDqSM+jRYONHynT/tuNvA9K6vLQAbIZiqlUTxpAYTwgoyQuii6Lag3pVGXmI44="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -81,40 +82,44 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Name"
+  name             : "Kolmar Kafran" # "Your Name"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "In God we trust,<br />all others bring data.<br />&mdash; <i>William E Deming</i>"
-  location         : "João Pessoa - PB - Brazil"
-  email            : "blog@kafran.net"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "kafran"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  location         : "Brasília - DF - Brazil"
+  links:
+    - label: "About"
+      icon: "fas fa-fw fa-link"
+      url: "https://kafran.net"
+    - label: "E-mail"
+      icon: ""
+      url: "blog@kafran.net"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kafran"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kolmar-kafran"
+    - label: "StackOverflow"
+      icon: ""
+      url: "https://stackoverflow.com/users/"
+    - label: "Youtube"
+      icon: "https://youtube.com/c/"
+      url: 
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
   - /scdp
   - /books
@@ -154,7 +159,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+#excerpt_separator: "\n\n"
 incremental: false
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin  : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -190,15 +195,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
 
 # Archives
 #  Type
