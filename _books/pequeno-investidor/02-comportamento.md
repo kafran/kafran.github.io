@@ -1,4 +1,10 @@
-# (PART) MUDANÇAS DE COMPORTAMENTO {-}
+---
+title: "Mudanças de comportamento"
+permalink: /books/pequeno-investidor/comportamento/
+excerpt: "Antes de começar a investir você precisará mudar algumas coisas a respeito de quem você é e de como você vive."
+last_modified_at: 2019-06-15T22:44:10-03:00
+toc: true
+---
 
 # Despocotizando o seu cérebro
 
