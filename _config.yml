@@ -253,10 +253,10 @@ defaults:
       comments: true
       share: true
       related: true
-# _docs
+# _pequeno-investidor
   - scope:
       path: ""
-      type: docs
+      type: pequeno-investidor
     values:
       layout: single
       read_time: false
@@ -264,7 +264,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-nav: "docs"
+        nav: "pequeno-investidor"
  # _portfolio
   - scope:
       path: ""
