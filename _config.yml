@@ -89,7 +89,7 @@ author:
   links:
     - label: "About"
       icon: "fas fa-fw fa-link"
-      url: "https://kafran.net"
+      url: "https://kafran.net/about/"
     - label: "E-mail"
       icon: ""
       url: "blog@kafran.net"
