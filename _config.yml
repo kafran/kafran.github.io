@@ -89,10 +89,10 @@ author:
   links:
     - label: "About"
       icon: "fas fa-fw fa-link"
-      url: "https://kafran.net/about/"
+      url: "/about/"
     - label: "E-mail"
       icon: "fab fa-fw fa-email"
-      url: "blog@kafran.net"
+      url: "mailto:blog@kafran.net"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kafran"
