@@ -7,8 +7,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Archive"
-    url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
 
