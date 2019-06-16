@@ -1,8 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+modified: 2019-06-15T21:27:25-03:00
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Kolmar Kafran (<https://kafran.net>) is a federal civil servant acting in the Department of Management of the Ministry of Planning of Brazil. He earned his master degree in Public Management from the Center for Applied Social Sciences of the Federal University of Rio Grande do Norte. He is interested in Knowledge Management in Public Sector, Communities of Practice and Data Sciences for the Evaluation of Public Policies.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+He enjoys running and spicy foods.
