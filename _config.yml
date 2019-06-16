@@ -91,7 +91,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "/about/"
     - label: "E-mail"
-      icon: "fab fa-fw fa-envelope"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:blog@kafran.net"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
