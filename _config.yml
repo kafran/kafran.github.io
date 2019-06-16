@@ -88,7 +88,7 @@ author:
   location         : "Brasília - DF - Brazil"
   links:
     - label: "About"
-      icon: "fas fa-fw fa-link"
+      icon: "far fa-fw fa-address-card" # fas fa-fw fa-link
       url: "/about/"
     - label: "E-mail"
       icon: "far fa-fw fa-envelope"
