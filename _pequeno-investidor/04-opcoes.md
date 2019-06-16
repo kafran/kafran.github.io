@@ -1,4 +1,12 @@
-# Operações com opções {#opcoes}
+---
+title: "Opções"
+permalink: /pequeno-investidor/opcoes/
+excerpt: "Operando opções."
+last_modified_at: 2019-06-15T22:44:10-03:00
+toc: true
+---
+
+# Operações com opções
 
 ```{block2, type='rmdwarning'}
 **Atenção** Como é comum que as opções tomem.
@@ -16,13 +24,13 @@ Entretanto, como o ser humano é um animal teimoso e curioso, e eu sei que muito
 * Como são precificadas as opções e por que os picaretas são picaretas
 * A única estratégia que considero plausível para o pequeno investidor
 
-## O que são opções? {#o-que-sao-opcoes}
+## O que são opções?
 
 Opções são contratos. São promessas (que devem ser cumpridas) de compra e venda.
 
-### Precificação da opções {#preco-opcoes}
+### Precificação da opções
 
-## Estratégia de venda de PUT {#venda-put}
+## Estratégia de venda de PUT
 
 Para o pequeno investidor que tem um percentual do seu patrimônio investido em ações e que deseja seguir fazendo aportes no mercado de ações, a única exceção plausível à regra anterior é a estratégia de Venda de PUT (PutWrite).
 
@@ -30,4 +38,4 @@ Entenda, serei prolixo irei repetir mais uma vez: o pequeno investidor, o pessoa
 
 A estratégia de PutWrite, ou lançamento de PUT, também conhecida como _Collateralized Reverse Convertible_, consiste simplesmente em se investir em ações substintuindo-se a compra direta do ativo subjacente pela venda de opções PUT de curto prazo, simultânea à aplicação dos recursos disponíveis (liquidez) em investimentos "livres de risco".
 
-### Por que não a venda de CALL? {#venda-call}
+### Por que não a venda de CALL?

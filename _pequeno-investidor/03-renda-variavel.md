@@ -1,4 +1,16 @@
-# O mercado de ações {#acoes}
+---
+title: "Renda variável"
+permalink: /pequeno-investidor/renda-variavel/
+excerpt: "Investido em renda variável."
+last_modified_at: 2019-06-15T22:44:10-03:00
+toc: true
+---
+
+# Introdução
+
+Neste capítulo você irá aprender sobre os investimentos em renda variável disponíveis ao pequeno investidor, mais especificamente, aqueles negociados em Bolsa de Valores.
+
+# O mercado de ações
 
 A bolsa de valores possibilita ao pequeno investidor a poupança e o acúmulo de capitais por meio da compra de ações de boas empresas para longo prazo.
 
