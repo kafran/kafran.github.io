@@ -1,6 +1,6 @@
 ---
 title: "Pequeno Investidor: o guia definitivo"
-permalink: /pequeno-investidor/introducao/
+permalink: /pequeno-investidor/
 excerpt: "Este livro é um trabalho em andamento para a produçao de um livro que abarque os principais investimentos disponíveis ao pequeno investidor no Brasil e no Exterior."
 last_modified_at: 2019-06-15T22:44:10-03:00
 toc: true
