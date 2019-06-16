@@ -100,11 +100,11 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kolmar-kafran"
     - label: "StackOverflow"
-      icon: ""
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/"
     - label: "Youtube"
-      icon: "https://youtube.com/c/"
-      url: 
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/c/"
 
 footer:
   links:
