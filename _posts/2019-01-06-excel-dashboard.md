@@ -1,9 +1,8 @@
 ---
 title: "Excel Dashboard"
 header:
-  overlay_image: /assets/images/dashboard-mapa.png
+  image: /assets/images/dashboard-mapa.png
   caption: "Dashboard do mapa da paraíba com os campi do IFPB em destaque"
-  cta_url: "https://kafran.net"
 categories:
   - Data Analysis
 tags:
