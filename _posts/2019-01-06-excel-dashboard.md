@@ -53,7 +53,7 @@ A parte mais legal desse projeto foi o desenvolvimento de Macros VBA para colori
 	<figcaption>Um painel trazia o mapa da Paraíba com a localização geográfica dos campi.</figcaption>
 </figure>
 
-Foi nostálgico encontrar esse projeto perdido no notebook, me fez pensar que solução eu utilizaria hoje para solucionar esse mesmo problema; com algum domínio de outras tecnologias como Python, Pandas e Frameworks Web para a visualização de dados. Também me fez refletir que o Excel ainda tem o seu espaço nesse enorme universo de ferramentas de Business Inteligence.
+Foi nostálgico encontrar esse projeto perdido no notebook, me fez pensar que soluções eu utilizaria hoje para esse mesmo problema; com algum domínio de outras tecnologias como Python, Pandas e Frameworks Web para a visualização de dados. Também me fez refletir que o Excel ainda tem o seu espaço nesse enorme universo de ferramentas de Business Inteligence.
 
 **OBS** Os _dashboards_ presentes nesta postagem são meramente ilustrativos não representando a situação do cumprimento das diretrizes e metas do planejamento estratégico da instituição por determinado _campus_.
 {: .notice--warning}
