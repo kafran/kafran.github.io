@@ -52,3 +52,6 @@ A parte mais legal desse projeto foi o desenvolvimento de Macros VBA para colori
     <a href="/assets/images/dashboard-mapa.png"><img src="/assets/images/dashboard-mapa.png"></a>
 	<figcaption>Um painel trazia o mapa da Paraíba com a localização geográfica dos campi.</figcaption>
 </figure>
+
+**OBS** Os _dashboards_ presentes nesta postagem são meramente ilustrativos não representando a situação do cumprimento das diretrizes e metas do planejamento estratégico da instituição por determinado _campus_.
+{: .notice--warning}
