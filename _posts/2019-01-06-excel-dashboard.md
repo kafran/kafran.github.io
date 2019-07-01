@@ -55,5 +55,5 @@ A parte mais legal desse projeto foi o desenvolvimento de Macros VBA para colori
 
 Foi nostálgico encontrar esse projeto perdido no notebook, me fez pensar que soluções eu utilizaria hoje para esse mesmo problema; com algum domínio de outras tecnologias como Python, Pandas e Frameworks Web para a visualização de dados. Também me fez refletir que o Excel ainda tem o seu espaço nesse enorme universo de ferramentas de Business Inteligence.
 
-**OBS** Os _dashboards_ presentes nesta postagem são meramente ilustrativos não representando a situação do cumprimento das diretrizes e metas do planejamento estratégico da instituição por determinado _campus_.
+**OBS** Os _dashboards_ presentes nesta postagem são meramente ilustrativos não representando a real situação do cumprimento das diretrizes e metas do planejamento estratégico do Instituto Federal da Paraíba.
 {: .notice--warning}
