@@ -49,6 +49,6 @@ _Dashboards_ individuais traziam informações de cada _campus_. O _dashboard_ d
 A parte mais legal desse projeto foi o desenvolvimento de Macros VBA para colorir no mapa da Paraíba a localização geográfica de cada campi de acordo com o seu desempenho no cumprimento das ações previstas no planejamento estratégico da instituição.
 
 <figure>
-    <a href="/assets/images/painel-mapa.png"><img src="/assets/images/painel-mapa.png"></a>
+    <a href="/assets/images/dashboard-mapa.png"><img src="/assets/images/dashboard-mapa.png"></a>
 	<figcaption>Um painel trazia o mapa da Paraíba com a localização geográfica dos campi.</figcaption>
 </figure>
