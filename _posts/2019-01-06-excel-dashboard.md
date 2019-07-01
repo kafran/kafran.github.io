@@ -32,7 +32,7 @@ Após revisar todos os pontos do planejamento estratégico da instituição, est
 </figure>
 
 <figure class="half">
-    <a href="/assets/images/dashboard-dados1.png"><img src="/assets/images/dashboard-dados2.png"></a>
+    <a href="/assets/images/dashboard-dados1.png"><img src="/assets/images/dashboard-dados1.png"></a>
     <a href="/assets/images/dashboard-dados2.png"><img src="/assets/images/dashboard-dados2.png"></a>
     <figcaption>Aba para inserção dos dados.</figcaption>
 </figure>
