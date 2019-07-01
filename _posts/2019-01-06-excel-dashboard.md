@@ -16,7 +16,7 @@ Esses dias eu estava organizando meus projetos no notebook e encontrei esse anti
 Em 2013 tive a honra de começar a trabalhar na chefia de gabinete do Instituto Federal da Paraíba e o Reitor me deu a missão de colocar o planejamento estratégico da instituição sob uma perspectiva mais visual. Esse trabalho não exigiu análises complexas com medidas estatísticas e todos os jargões que estão na moda. Mas exigiu um esforço enorme para que eu convertesse diretrizes e metas em gráficos
 
 <figure class="half">
-    <a href="/assets/images/dashboard-dados1.jpg"><img src="/assets/images/dashboard-dados2.jpg"></a>
-    <a href="/assets/images/dashboard-dados2.jpg"><img src="/assets/images/dashboard-dados2.jpg"></a>
+    <a href="/assets/images/dashboard-dados1.png"><img src="/assets/images/dashboard-dados2.png"></a>
+    <a href="/assets/images/dashboard-dados2.png"><img src="/assets/images/dashboard-dados2.png"></a>
     <figcaption>Dashboards.</figcaption>
 </figure>
