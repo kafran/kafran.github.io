@@ -32,7 +32,5 @@ Muitas pessoas que viram o primeiro vídeo com a planilha da STN modificada têm
 
 [Link para a planilha com a macro para exportar os dados dos credores](/assets/planilhas/Exportar_Batch_ATUCREDOR_DOF-JP_IFPB.xlsm) para serem importados/atualizados via _batch_ (ATUCREDOR) no SIAFI tela preta.
 
-que o Excel ainda tem o seu espaço nesse enorme universo de ferramentas de Business Inteligence.
-
 **Atenção**: infelizmente essas planilhas só funcionam com o Microsoft Excel e **não** funcionam com o LibreOffice ou similares. Eu sei, sendo usuário Linux há mais de 10 anos, isso é triste para mim também =(.
 {: .notice--warning}
