@@ -25,7 +25,7 @@ Eu cheguei a gravar um vídeo explicando o funcionamento da planilha da STN com 
 
 Muitas pessoas que viram o primeiro vídeo com a planilha da STN modificada têm me pedido para compartilhar os arquivos. Portanto, abaixo disponibilizo os arquivos para Download. Infelizmente eu não tenho a menor condição [tempo] de prestar suporte e apoio quanto ao funcionamento desses processos de carga de dados no SIAFI, por isso vocês irão precisar descobrir por conta própria.
 
-**O caminho das pedras** A carga dos dados no SIAFI tela preta acontece através do portal do [Sistema de Transferência de Arquivos](https://sta.tesouro.fazenda.gov.br/pcasp/index.asp). Orientações quanto ao processo _batch_ no SIAFI tela preta podem ser encontradas no [manual da STN](https://www.tesouro.fazenda.gov.br/documents/10180/562554/PROCESSO_BT_SIAFI_INSTRUCOESv2.pdf).
+**O caminho das pedras**: a carga dos dados no SIAFI tela preta acontece através do portal do [Sistema de Transferência de Arquivos](https://sta.tesouro.fazenda.gov.br/pcasp/index.asp). Orientações quanto ao processo _batch_ no SIAFI tela preta podem ser encontradas no [manual da STN](https://www.tesouro.fazenda.gov.br/documents/10180/562554/PROCESSO_BT_SIAFI_INSTRUCOESv2.pdf).
 {: .notice--info}
 
 [Link para a planilha Batch da STN modificada](/assets/planilhas/Modelo_DOF-JP_IFPB.xlsx)
@@ -34,5 +34,5 @@ Muitas pessoas que viram o primeiro vídeo com a planilha da STN modificada têm
 
 que o Excel ainda tem o seu espaço nesse enorme universo de ferramentas de Business Inteligence.
 
-**Atenção** Infelizmente essas planilhas só funcionam com o Microsoft Excel, não funcionando com o LibreOffice e similares.
+**Atenção**: infelizmente essas planilhas só funcionam com o Microsoft Excel e **não** funcionam com o LibreOffice ou similares. Eu sei, sendo usuário Linux há mais de 10 anos, isso é triste para mim também =(.
 {: .notice--warning}
