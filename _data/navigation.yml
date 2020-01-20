@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Books"
-    url: /books/
+  # - title: "Books"
+  #   url: /books/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Categories"
@@ -11,22 +11,21 @@ main:
     url: /tags/
   - title: "Sitemap"
     url: /sitemap/
-
 # pequeno-investidor nav
-pequeno-investidor:
-  - title: "Pequeno Investidor: o guia definitivo "
-    children:
-      - title: "Introdução"
-        url: /pequeno-investidor/
-      - title: "Mudança de comportamento"
-        url: /pequeno-investidor/comportamento/
+# pequeno-investidor:
+#   - title: "Pequeno Investidor: o guia definitivo "
+#     children:
+#       - title: "Introdução"
+#         url: /pequeno-investidor/
+#       - title: "Mudança de comportamento"
+#         url: /pequeno-investidor/comportamento/
 
-  - title: Renda Variável
-    children:
-      - title: "Introdução"
-        url: /pequeno-investidor/renda-variavel/
+#   - title: Renda Variável
+#     children:
+#       - title: "Introdução"
+#         url: /pequeno-investidor/renda-variavel/
 
-  - title: Operando Opções
-    children:
-      - title: "Introdução"
-        url: /pequeno-investidor/opcoes/
+#   - title: Operando Opções
+#     children:
+#       - title: "Introdução"
+#         url: /pequeno-investidor/opcoes/
