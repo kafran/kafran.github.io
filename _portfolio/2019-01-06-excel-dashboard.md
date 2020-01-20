@@ -9,9 +9,6 @@ gallery:
   - url: /assets/images/portfolio/excel-dashboard/painel-principal.png
     image_path: /assets/images/portfolio/excel-dashboard/painel-principal.png
     alt: "Tab with instructions and configurations."
-  - url: /assets/images/portfolio/excel-dashboard/dashboard-dados3.png
-    image_path: /assets/images/portfolio/excel-dashboard/dashboard-dados3.png
-    alt: "Guidelines, goals and actions for the strategic planning."
   - url: /assets/images/portfolio/excel-dashboard/dashboard-dados1.png
     image_path: /assets/images/portfolio/excel-dashboard/dashboard-dados1.png
     alt: "Tab for collecting data."
@@ -27,6 +24,9 @@ gallery:
   - url: /assets/images/portfolio/excel-dashboard/painel-reitoria.png
     image_path: /assets/images/portfolio/excel-dashboard/painel-reitoria.png
     alt: "Individual dashboard with metrics for each campus."
+  - url: /assets/images/portfolio/excel-dashboard/dashboard-dados3.png
+    image_path: /assets/images/portfolio/excel-dashboard/dashboard-dados3.png
+    alt: "Guidelines, goals and actions for the strategic planning."
 modified: 2019-01-06T11:39:01-03:00
 ---
 
