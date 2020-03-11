@@ -9,7 +9,7 @@ gallery:
   - url: /assets/images/portfolio/excel-dashboard/dashboard-mapa-header.png
     image_path: /assets/images/portfolio/excel-dashboard/dashboard-mapa-header.png
     alt: "A map of the state of Paraíba showing campi."
-- url: /assets/images/portfolio/excel-dashboard/painel-principal.png
+  - url: /assets/images/portfolio/excel-dashboard/painel-principal.png
     image_path: /assets/images/portfolio/excel-dashboard/painel-principal.png
     alt: "Tab with instructions and configurations."
   - url: /assets/images/portfolio/excel-dashboard/dashboard-dados1.png
