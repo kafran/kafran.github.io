@@ -22,7 +22,7 @@ modified: 2019-02-14T12:40:33-03:00
 permalink: /portfolio/travel-dashboard/
 ---
 
-This is a project for Brazil's Ministry of Economy. The Travel Dashboard provides an interactive panel which gathers information about the public expendituries made by public employees when they travel for work.
+This is a project for Brazil's Ministry of Economy. [The Travel Dashboard](http://paineldeviagens.economia.gov.br/) provides an interactive panel which gathers information about the public expendituries made by public employees when they travel for work.
 
 An incredible data engineering work has been done. To build the Data Lake and the Data Warehouse which feeds the panel we had to integrate data from multiple sources and data bases.
 
