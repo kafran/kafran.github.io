@@ -1,6 +1,6 @@
 ---
 title: "Travel Dashboard of Brazil's Public Administration"
-excerpt: "An interactive dashboard of the Brazil's Public Administration."
+excerpt: "An interactive dashboard of work travels made by Brazil's public employees."
 header:
   image: /assets/images/portfolio/travel-dashboard/travel-dashboard.png
   teaser: /assets/images/portfolio/travel-dashboard/travel-dashboard.png
