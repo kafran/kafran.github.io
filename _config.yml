@@ -262,11 +262,10 @@ defaults:
   #       nav: "pequeno-investidor"
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
-      layout: single
-      author_profile: false
+      layout: post
       share: true
 
 # HTML Compression
