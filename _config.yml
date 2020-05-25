@@ -157,7 +157,7 @@ highlighter: rouge
 lsi: false
 #excerpt_separator: "\n\n"
 incremental: false
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Markdown Processing
