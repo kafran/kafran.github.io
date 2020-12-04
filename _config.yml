@@ -248,19 +248,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pequeno-investidor
-  # - scope:
-  #     path: ""
-  #     type: pequeno-investidor
-  #   values:
-  #     layout: single
-  #     read_time: false
-  #     author_profile: false
-  #     share: false
-  #     comments: false
-  #     sidebar:
-  #       nav: "pequeno-investidor"
-  # _portfolio
   - scope:
       path: "_portfolio"
       type: portfolio
