@@ -95,7 +95,7 @@ defaults:
     values:
       layout: post
       read_time: true
-  _portfolio
+  #_portfolio
   - scope:
       path: "_portfolio"
       type: portfolio
