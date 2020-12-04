@@ -81,10 +81,10 @@ paginate_path: /page:num/
 #   - vendor/ruby/
 
 # Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -96,9 +96,9 @@ defaults:
       layout: post
       read_time: true
   #_portfolio
-  - scope:
-      path: "_portfolio"
-      type: portfolio
-    values:
-      layout: post
-      read_time: true
+  # - scope:
+  #     path: "_portfolio"
+  #     type: portfolio
+  #   values:
+  #     layout: post
+  #     read_time: true
