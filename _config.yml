@@ -90,11 +90,11 @@ paginate_path: /page:num/
 defaults:
   # _posts
   - scope:
-      path: "_posts"
-      type: posts
+      path: "about.md"
+      type: pages
     values:
-      layout: post
-      read_time: true
+      layout: about
+      read_time: false
   #_portfolio
   # - scope:
   #     path: "_portfolio"
