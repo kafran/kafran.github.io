@@ -10,3 +10,4 @@ My name is Kolmar Kafran and I accidentally became a Data Engineer at Brazil's M
 - I ask my questions on {% include icon-stackoverflow.html username="3147247" label="StackOverflow" %}
 - You can find me on {% include icon-linkedin.html username="kolmar-kafran" label="linkedin.com/in/kolmar-kafran/" %}
 - and on {% include icon-github.html username="kafran" label="GitHub" %}
+
