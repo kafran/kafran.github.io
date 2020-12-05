@@ -2,12 +2,10 @@
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+Hey there. Olá 👋🙂 
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+My name is Kolmar Kafran and I accidentally became a Data Engineer at Brazil's Ministry of Economy. I work for the Federal Government for the past 8 years and with public management for 10 years. I have a Bachelor Degree in Business Administration and endless hours of reading and study on coding, algorithms, data structures, design patterns and data modeling. How did I end up in this field, you ask? Well, I was on the other side of the Data Rainbow 🌈🦄 working as a BI Analyst and feeling all the pain gathering, wrangling and bending all the data I needed. Eventually I was good enough to others came to me to get their data. Soon the market would be calling me Data Engineer 🥳.
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+- I try to write on {% include icon-devto.html username="kafran" label="dev.to/kafran/" %}
+- You can also find me on {% include icon-linkedin.html username="kolmar-kafran" label="linkedin.com/in/kolmar-kafran/" %}
+- And also on {% include icon-stackoverflow.html username="3147247" label="StackOverflow" %} and {% include icon-github.html username="kafran" label="GitHub" %}
