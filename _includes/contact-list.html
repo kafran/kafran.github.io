@@ -7,13 +7,17 @@
         </a>
       </li>
     {% endif %}
+
+    {% if site.devto_username %}
+      <li>{% include icon-devto.html username=site.devto_username label='DEV' %}</li>
+    {% endif %}
   
     {% if site.github_username %}
       <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
     {% endif %}
 
     {% if site.stackoverflow_username %}
-      <li>{% include icon-stackoverflow.html username=site.stackoverflow_username label='Stack Overflow' %}</li>
+      <li>{% include icon-stackoverflow.html username=site.stackoverflow_username label='StackOverflow' %}</li>
     {% endif %}
 
     {% if site.linkedin_username %}
