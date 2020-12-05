@@ -82,6 +82,9 @@ paginate_path: /page:num/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - "_portfolio"
+
 
 # Collections
 # collections:
