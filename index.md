@@ -4,4 +4,4 @@ layout: about
 
 Hey there. Olá 👋🙂 
 
-My name is Kolmar Kafran and I accidentally became a Data Engineer at Brazil's Ministry of Economy. I work for the Federal Government for the past 8 years and with public management for 10 years. I have a Bachelor Degree in Business Administration and endless hours of reading and study on coding, algorithms, data structures, design patterns and data modeling. How did I end up in this field, you ask? Well, I was on the other side of the Data Rainbow 🌈🦄 working as a BI Analyst and feeling all the pain gathering, wrangling and bending the data I needed. Eventually I was good enough to others came to me to get their data. Soon the market would be calling me Data Engineer 🥳. The rest is history.
+My name is Kolmar Kafran. I'm currently following a career change path. I have been working as a Data Engineer for the Brazil's Ministry of Economy for the past 3 years and I just got bored. I'm recycling myself to head into Software Engineering, specifically Mobile Development. It's a matter of fulfillment, I like to work creatively to solve people's problems 🌈🦄.
