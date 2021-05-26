@@ -9,7 +9,7 @@ repository: "kafran/kafran.github.io" # GitHub username/repo-name e.g. "mmistake
 # Site Author
 author:
   name: "Kolmar Kafran" # "Your Name"
-  picture: "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  picture: "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 #twitter_username: kafran
 github_username: kafran
 linkedin_username: kolmar-kafran
