@@ -3,5 +3,3 @@ layout: about
 ---
 
 Hey there 👋🙂 
-
-🌈🦄
