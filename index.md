@@ -2,9 +2,9 @@
 layout: about
 ---
 
-Hey there 👋🙂 
+The tail of the mobile software-smith. 
 
-<canvas id="canvas" width="700" height="750"></canvas>
+<canvas id="canvas" width="500"></canvas>
 <script src="https://unpkg.com/rive-js"></script>
 <script>
     new rive.Rive({
