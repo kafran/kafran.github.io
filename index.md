@@ -4,7 +4,7 @@ layout: about
 
 The tail of the mobile software-smith. 
 
-<canvas id="canvas" width="500"></canvas>
+<canvas id="canvas" height="550"></canvas>
 <script src="https://unpkg.com/rive-js"></script>
 <script>
     new rive.Rive({
